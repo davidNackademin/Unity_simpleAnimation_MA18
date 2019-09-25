@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 3fb30000554274502a190d486132b290
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8606078595404915139
+    second: Blobb-Idle_0
+  - first:
+      213: -3000887753447091769
+    second: Blobb-Idle_1
+  - first:
+      213: -6522524315883525846
+    second: Blobb-Idle_2
+  - first:
+      213: -3257535110044619186
+    second: Blobb-Idle_3
+  - first:
+      213: 7966854650878158043
+    second: Blobb-Idle_4
+  - first:
+      213: 6490572241823143237
+    second: Blobb-Idle_5
+  - first:
+      213: 1093742191984609810
+    second: Blobb-Idle_6
+  - first:
+      213: 1477399795032434073
+    second: Blobb-Idle_7
+  - first:
+      213: -5317738067797093502
+    second: Blobb-Idle_8
+  - first:
+      213: 8284162502539164365
+    second: Blobb-Idle_9
+  - first:
+      213: 1728326188748101272
+    second: Blobb-Idle_10
+  - first:
+      213: 1312873948276521299
+    second: Blobb-Idle_11
+  - first:
+      213: -3115955636077463650
+    second: Blobb-Idle_12
+  - first:
+      213: -7024114497115824900
+    second: Blobb-Idle_13
+  - first:
+      213: 2208403629332993401
+    second: Blobb-Idle_14
+  - first:
+      213: -9124214564406051840
+    second: Blobb-Idle_15
+  - first:
+      213: -7127297350311088431
+    second: Blobb-Idle_16
+  - first:
+      213: -5963511773987825151
+    second: Blobb-Idle_17
+  - first:
+      213: 2997151637513537857
+    second: Blobb-Idle_18
+  - first:
+      213: -497454469512785855
+    second: Blobb-Idle_19
+  - first:
+      213: 708595561573628988
+    second: Blobb-Idle_20
+  - first:
+      213: 4187762285921446906
+    second: Blobb-Idle_21
+  - first:
+      213: -4487377607982711955
+    second: Blobb-Idle_22
+  - first:
+      213: 427593003545408674
+    second: Blobb-Idle_23
+  - first:
+      213: -8375015101918701419
+    second: Blobb-Idle_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blobb-Idle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be2eed319f8d4816815ff527fa14152
+      internalID: 8606078595404915139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 195
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcb88d41c3e2430fbef7b6d2edc7abf
+      internalID: -3000887753447091769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 194
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a624ea2e4cc9941588818c275f75dbba
+      internalID: -6522524315883525846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 194
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0bc546b48df473ba5616a1578e15c6
+      internalID: -3257535110044619186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 194
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a225e6ba5ef045d38383ba3447d6403
+      internalID: 7966854650878158043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 194
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e8762ff4b5740ee8284188493aa2eb
+      internalID: 6490572241823143237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 194
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06d0d3103f4b475ca8f3babb54d5a5a
+      internalID: 1093742191984609810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_7
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 194
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517a46dcfb9e64acba75a03911fad68a
+      internalID: 1477399795032434073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_8
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 194
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba1f1ae408904dc19b800deda6e3f9e
+      internalID: -5317738067797093502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b23445d96d934de3bb67c0b6583108a
+      internalID: 8284162502539164365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 98
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d987db582844223bc16e932707196f
+      internalID: 1728326188748101272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 98
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0686deff0de0e4e6d9678aef85e272ba
+      internalID: 1312873948276521299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 98
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca087bd21e14cab8b1df22b3ebc9df
+      internalID: -3115955636077463650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 99
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ebc4721a924734a18514a7d77177b
+      internalID: -7024114497115824900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_14
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 99
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ddcbaea8fa94a968fa85c89b3853a5
+      internalID: 2208403629332993401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_15
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 99
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1586dbf6d81e45249efa9f0a441844f
+      internalID: -9124214564406051840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_16
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 99
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6112e88454df64a1eaeec698d5abeb93
+      internalID: -7127297350311088431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_17
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 99
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5475646ba39ee4dd1b4c508879a07442
+      internalID: -5963511773987825151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5dacafef4104fa4b73ee1ece291bb1
+      internalID: 2997151637513537857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 4
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726c3d87cc3284681bbe5532166225dd
+      internalID: -497454469512785855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18b0ce00fa904319a4429cbf573cbb7
+      internalID: 708595561573628988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cf941e791ff440898a942923716c8f
+      internalID: 4187762285921446906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 3
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3123349116848e38593f03dd73c959
+      internalID: -4487377607982711955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e01ff54b81d5401bb70a2d9a6242822
+      internalID: 427593003545408674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobb-Idle_24
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa0303d8a5a41eab316f73d1e831b6
+      internalID: -8375015101918701419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
