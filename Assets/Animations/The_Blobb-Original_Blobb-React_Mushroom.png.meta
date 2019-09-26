@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 416eb7c0d8c4f41b3882e8c6b67a31d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3320210427277920389
+    second: The_Blobb-Original_Blobb-React_Mushroom_0
+  - first:
+      213: -1813664137982755840
+    second: The_Blobb-Original_Blobb-React_Mushroom_1
+  - first:
+      213: 359147364570556772
+    second: The_Blobb-Original_Blobb-React_Mushroom_2
+  - first:
+      213: -2908514387869137466
+    second: The_Blobb-Original_Blobb-React_Mushroom_3
+  - first:
+      213: -6530194004226498897
+    second: The_Blobb-Original_Blobb-React_Mushroom_4
+  - first:
+      213: 8045933167822719587
+    second: The_Blobb-Original_Blobb-React_Mushroom_5
+  - first:
+      213: 3840162887991506553
+    second: The_Blobb-Original_Blobb-React_Mushroom_6
+  - first:
+      213: 9056637154154513502
+    second: The_Blobb-Original_Blobb-React_Mushroom_7
+  - first:
+      213: -2785282481813373032
+    second: The_Blobb-Original_Blobb-React_Mushroom_8
+  - first:
+      213: 1663521054789031511
+    second: The_Blobb-Original_Blobb-React_Mushroom_9
+  - first:
+      213: 2720004923923109535
+    second: The_Blobb-Original_Blobb-React_Mushroom_10
+  - first:
+      213: 5040458180858993179
+    second: The_Blobb-Original_Blobb-React_Mushroom_11
+  - first:
+      213: -8575839372649491976
+    second: The_Blobb-Original_Blobb-React_Mushroom_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3863a067584b449749f799c2cd2a8866
+      internalID: 3320210427277920389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 97
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fad9bad41d4541e5ae4e7e6556c2791
+      internalID: -1813664137982755840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 97
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f8d09c211114e5bb0d927f2b43e1fb
+      internalID: 359147364570556772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 97
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5308deee9329433091a18f1566a3d03
+      internalID: -2908514387869137466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 97
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68cb832b425043c397d091ce9f2ee44
+      internalID: -6530194004226498897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 97
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0620fe1ce8e486b93b7e17c4dc6961
+      internalID: 8045933167822719587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 97
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b90e96b39c894ca7ad16c54b64e74a7
+      internalID: 3840162887991506553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 97
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb3517885331431b8f4dd71850c9599
+      internalID: 9056637154154513502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_8
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 97
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb6865454ca84e3b868042d8ede9318
+      internalID: -2785282481813373032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e68b36371d0e4d82b75f9e512e2c5fa
+      internalID: 1663521054789031511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810028861a8d41c3a2f21bb1898762d
+      internalID: 2720004923923109535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3686486a1f23945ae982c05a098c0d84
+      internalID: 5040458180858993179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Blobb-Original_Blobb-React_Mushroom_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 111.22222
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acd1d87c0a5748cf88c3819b03d37d4
+      internalID: -8575839372649491976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

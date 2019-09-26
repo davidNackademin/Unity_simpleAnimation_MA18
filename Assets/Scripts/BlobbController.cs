@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class BlobbController : MonoBehaviour
 {
+
+    public GameObject particles;
+
     Animator animator;
 
     int rollTriggerHash = Animator.StringToHash("roll");
@@ -15,6 +18,16 @@ public class BlobbController : MonoBehaviour
     private void Start()
     {
         animator = GetComponent<Animator>();
+        particles.SetActive(false);
+
+        ReactStateBehaviour[] reactStates = animator.GetBehaviours<ReactStateBehaviour>();
+
+        foreach(ReactStateBehaviour reactState in reactStates)
+        {
+            reactState.blobbController = this;
+        }
+
+
     }
 
 
@@ -38,6 +51,10 @@ public class BlobbController : MonoBehaviour
         animator.SetFloat(pressedTimeHash, pressedTime);
     }
 
+    public void SwitchPartikles()
+    {
+        particles.SetActive(!particles.activeInHierarchy);
+    }
 
 
     private void OnMouseDown()
@@ -48,7 +65,7 @@ public class BlobbController : MonoBehaviour
 
         //animator.SetTrigger(rollTriggerHash);
 
-        animator.SetTrigger(blinkTriggerHash);
+       // animator.SetTrigger(blinkTriggerHash);
 
     }
 
